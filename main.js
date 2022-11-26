@@ -12,3 +12,7 @@ let form = document.querySelector('form');
 
     // Start your code here
     // You may move this JS to another file if you wish
+    let consoleLogButton = document.getElement
+    window.addEventListener(onclick, () => {
+
+    })
